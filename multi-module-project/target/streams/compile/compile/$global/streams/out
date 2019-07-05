@@ -1,0 +1,32 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/multi-module-project/src/main/scala/Main.java:21:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Insert[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Main[0m
+[0m[[0m[31merror[0m] [0m[0m    Insert obj1 = new Insert();[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/multi-module-project/src/main/scala/Main.java:21:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Insert[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Main[0m
+[0m[[0m[31merror[0m] [0m[0m    Insert obj1 = new Insert();[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/multi-module-project/src/main/scala/Main.java:22:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Delete[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Main[0m
+[0m[[0m[31merror[0m] [0m[0m    Delete obj2 = new Delete();[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/multi-module-project/src/main/scala/Main.java:22:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Delete[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Main[0m
+[0m[[0m[31merror[0m] [0m[0m    Delete obj2 = new Delete();[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/multi-module-project/src/main/scala/Main.java:23:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Update[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Main[0m
+[0m[[0m[31merror[0m] [0m[0m    Update obj3 = new Update();[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/multi-module-project/src/main/scala/Main.java:23:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Update[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Main[0m
+[0m[[0m[31merror[0m] [0m[0m    Update obj3 = new Update();[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/multi-module-project/src/main/scala/Main.java:24:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Read[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Main[0m
+[0m[[0m[31merror[0m] [0m[0m    Read obj4 = new Read();[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/multi-module-project/src/main/scala/Main.java:24:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Read[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Main[0m
+[0m[[0m[31merror[0m] [0m[0m    Read obj4 = new Read();[0m
