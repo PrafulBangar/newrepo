@@ -11,7 +11,7 @@ public class UserOperation {
 
 
 
-        public static void main(String args[]) {
+        public void selectoperation() {
             int ch;
             Scanner sc =new Scanner(System.in);
             do {

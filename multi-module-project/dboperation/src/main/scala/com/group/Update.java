@@ -21,7 +21,7 @@ public class Update
         try
         {
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/userinfo", "root", "rootpasswordgiven");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/userinfo", "username", "passwordgiven");
             Statement st=con.createStatement();
             System.out.println("Enter new user name =");
             String newname=sc.next();

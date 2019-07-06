@@ -1,7 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9060f3c-7cd4-4841-bf51-704af0d9d8b3" name="Default Changelist" comment="" />
+    <list default="true" id="f9060f3c-7cd4-4841-bf51-704af0d9d8b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/dboperation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/dboperation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/entities.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/entities.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/multi-module-project-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/multi-module-project-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/multi-module-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/multi-module-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/operations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/operations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Delete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Insert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Read.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/META-INF/dboperation.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/com/group/Delete.class" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/com/group/Delete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/com/group/Insert.class" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/com/group/Insert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/com/group/Read.class" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/com/group/Read.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/com/group/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/classes/com/group/Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/dboperation/dboperation$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/dboperation/dboperation$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/dboperation/dboperation$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/dboperation/dboperation$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/dboperation/dboperation_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/dboperation/dboperation_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/dboperation/dboperation_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/dboperation/dboperation_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/scala-2.12/resolution-cache/reports/dboperation-dboperation_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dboperation/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/dboperation/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/classes/META-INF/entities.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/classes/com/group/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/classes/com/group/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/entities/entities$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/entities/entities$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/entities/entities$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/entities/entities$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/entities/entities_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/entities/entities_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/entities/entities_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/entities/entities_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/scala-2.12/resolution-cache/reports/entities-entities_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/entities/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/src/main/scala/com/group/UserOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/operations/src/main/scala/com/group/UserOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/classes/META-INF/operations.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/classes/com/group/UserOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/classes/com/group/UserOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/operations/operations$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/operations/operations$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/operations/operations$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/operations/operations$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/operations/operations_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/operations/operations_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/operations/operations_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/operations/operations_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/scala-2.12/resolution-cache/reports/operations-operations_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/operations/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$22676555215a4ea0e1a6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$22676555215a4ea0e1a6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$22676555215a4ea0e1a6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d95ba53a02a0e30e70d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d95ba53a02a0e30e70d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d95ba53a02a0e30e70d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$426d05288be4092d4b56$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$426d05288be4092d4b56.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$426d05288be4092d4b56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$587932c776fefa061a9f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$587932c776fefa061a9f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$587932c776fefa061a9f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$acbba8ac2f14960419d8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$acbba8ac2f14960419d8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$acbba8ac2f14960419d8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d2931cf635e45064fd98$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d2931cf635e45064fd98.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d2931cf635e45064fd98.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/multi-module-project-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/multi-module-project-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/multi-module-project-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/multi-module-project-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-multi-module-project-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/group/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/group/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/META-INF/multi-module-project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/group/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/group/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/multi-module-project_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/multi-module-project_2.13-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/multi-module-project/multi-module-project$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/multi-module-project/multi-module-project$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/multi-module-project/multi-module-project$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/multi-module-project/multi-module-project$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/multi-module-project/multi-module-project_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/multi-module-project/multi-module-project_2.13/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/multi-module-project/multi-module-project_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/multi-module-project/multi-module-project_2.13/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/multi-module-project-multi-module-project_2.13-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ssExtractDependencies/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ssExtractDependencies/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/exportedProductJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProductJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProductJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProductJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/fullClasspathAsJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/fullClasspathAsJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/internalDependencyAsJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyAsJars/$global/streams/export" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -17,8 +250,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -43,21 +275,12 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Delete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-36">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="315">
+              <caret line="21" column="110" selection-start-line="21" selection-start-column="110" selection-end-line="21" selection-end-column="110" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +291,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Update.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-117">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="195">
+              <caret line="23" column="110" selection-start-line="23" selection-start-column="110" selection-end-line="23" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -77,8 +300,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Insert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="86">
+              <caret line="27" column="102" selection-start-line="27" selection-start-column="102" selection-end-line="27" selection-end-column="102" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +312,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Read.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="240">
+              <caret line="20" column="110" selection-start-line="20" selection-start-column="110" selection-end-line="20" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -98,8 +321,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/operations/src/main/scala/com/group/UserOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="-19">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,34 +332,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/entities/src/main/scala/com/group/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/group/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/group/Main.java">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -150,6 +367,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -167,13 +387,14 @@
         <option value="$PROJECT_DIR$/entities/src/main/scala/User.java" />
         <option value="$PROJECT_DIR$/src/main/scala/Main.java" />
         <option value="$PROJECT_DIR$/operations/src/main/scala/UserOperation.java" />
-        <option value="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Read.java" />
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/entities/src/main/scala/com/group/User.java" />
+        <option value="$PROJECT_DIR$/operations/src/main/scala/com/group/UserOperation.java" />
+        <option value="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Insert.java" />
+        <option value="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Read.java" />
         <option value="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Update.java" />
         <option value="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Delete.java" />
-        <option value="$PROJECT_DIR$/dboperation/src/main/scala/com/group/Insert.java" />
         <option value="$PROJECT_DIR$/src/main/scala/com/group/Main.java" />
+        <option value="$PROJECT_DIR$/build.sbt" />
       </list>
     </option>
   </component>
@@ -183,12 +404,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="77" />
     <option name="y" value="47" />
     <option name="width" value="1280" />
     <option name="height" value="717" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -205,6 +427,36 @@
               <item name="multi-module-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="multi-module-project" type="462c0819:PsiDirectoryNode" />
               <item name="dboperation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi-module-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi-module-project" type="462c0819:PsiDirectoryNode" />
+              <item name="dboperation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi-module-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi-module-project" type="462c0819:PsiDirectoryNode" />
+              <item name="dboperation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi-module-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi-module-project" type="462c0819:PsiDirectoryNode" />
+              <item name="dboperation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi-module-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi-module-project" type="462c0819:PsiDirectoryNode" />
+              <item name="dboperation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="group" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="multi-module-project" type="b2602c69:ProjectViewProjectNode" />
@@ -276,7 +528,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo/src/main/java/com/group/JdbcConnect.java" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -311,6 +564,19 @@
     <configuration name="Jdbc_Connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jdbc_Connection" />
       <module name="multi-module-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.group.Main" />
+      <module name="multi-module-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.group.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -364,10 +630,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.UserOperation (1)" />
         <item itemvalue="Application.UserOperation" />
         <item itemvalue="Application.Jdbc_Connection" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -384,19 +650,19 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="root [file:/home/knoldus/IdeaProjects/multi-module-project/]" />
+                <option name="name" value="root [file:/home/knoldus/newrepo/multi-module-project/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="dboperation [file:/home/knoldus/IdeaProjects/multi-module-project/]" />
+                <option name="name" value="dboperation [file:/home/knoldus/newrepo/multi-module-project/]" />
                 <option name="path" value="$PROJECT_DIR$/dboperation" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="entities [file:/home/knoldus/IdeaProjects/multi-module-project/]" />
+                <option name="name" value="entities [file:/home/knoldus/newrepo/multi-module-project/]" />
                 <option name="path" value="$PROJECT_DIR$/entities" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="operations [file:/home/knoldus/IdeaProjects/multi-module-project/]" />
+                <option name="name" value="operations [file:/home/knoldus/newrepo/multi-module-project/]" />
                 <option name="path" value="$PROJECT_DIR$/operations" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -410,7 +676,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.sbt" value="300747233" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="741190205" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
       </map>
     </option>
@@ -429,123 +695,68 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="47" width="1280" height="717" extended-state="0" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22528364" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20430966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.42372882" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32881355" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5004055" side_tool="true" weight="0.32881355" />
-      <window_info anchor="bottom" id="Messages" weight="0.30169493" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49959448" weight="0.32881355" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.520339" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21731749" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" weight="0.3298217" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="sbt" weight="0.3298217" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.3293718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32767403" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004055" side_tool="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.42372882" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.30169493" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32960895" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="sbt" order="8" weight="0.3298217" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../demo/src/main/java/com/group/JdbcConnect.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/DbOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/JdbcConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Delete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Read.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Insert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Update.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/group/Main.java">
+    <entry file="file://$PROJECT_DIR$/../demo/src/main/java/com/group/JdbcConnect.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/DbOperation.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/JdbcConnection.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Delete.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Read.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Main.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Insert.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/Update.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Jdbc_Connection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Jdbc_Connection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/group/UserOperation.java" />
+    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Update.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <caret line="23" column="110" selection-start-line="23" selection-start-column="110" selection-end-line="23" selection-end-column="110" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Jdbc_Connection.java">
+    <entry file="file://$PROJECT_DIR$/entities/src/main/scala/com/group/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Jdbc_Connection.java">
+    <entry file="file://$PROJECT_DIR$/operations/src/main/scala/com/group/UserOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="-19">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -554,32 +765,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Read.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="240">
+          <caret line="20" column="110" selection-start-line="20" selection-start-column="110" selection-end-line="20" selection-end-column="110" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Insert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/operations/src/main/scala/com/group/UserOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="86">
+          <caret line="27" column="102" selection-start-line="27" selection-start-column="102" selection-end-line="27" selection-end-column="102" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -588,56 +782,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Delete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="315">
+          <caret line="21" column="110" selection-start-line="21" selection-start-column="110" selection-end-line="21" selection-end-column="110" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entities/src/main/scala/com/group/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/group/UserOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-481">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dboperation/src/main/scala/com/group/Update.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/group/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="122">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>

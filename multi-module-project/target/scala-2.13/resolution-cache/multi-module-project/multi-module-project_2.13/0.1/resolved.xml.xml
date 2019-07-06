@@ -4,7 +4,7 @@
 		module="multi-module-project_2.13"
 		revision="0.1"
 		status="integration"
-		publication="20190705190119"
+		publication="20190706131704"
 	>
 		<description>
 		multi-module-project
@@ -32,6 +32,9 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.13.0" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.13.0" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="operations" name="operations_2.13" rev="0.1.0-SNAPSHOT" conf="compile->default(compile)"/>
+		<dependency org="dboperation" name="dboperation_2.13" rev="0.1.0-SNAPSHOT" conf="compile->default(compile)"/>
+		<dependency org="entities" name="entities_2.13" rev="0.1.0-SNAPSHOT" conf="compile->default(compile)"/>
 		<dependency org="mysql" name="mysql-connector-java" rev="5.1.16" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
