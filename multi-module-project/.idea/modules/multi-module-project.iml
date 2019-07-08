@@ -14,9 +14,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.0:jar" level="project" />
-    <orderEntry type="library" name="sbt: mysql:mysql-connector-java:5.1.16:jar" level="project" />
-    <orderEntry type="module" module-name="operations" exported="" />
-    <orderEntry type="module" module-name="dboperation" exported="" />
     <orderEntry type="module" module-name="entities" exported="" />
+    <orderEntry type="module" module-name="dboperation" exported="" />
+    <orderEntry type="module" module-name="operations" exported="" />
+    <orderEntry type="library" name="sbt: mysql:mysql-connector-java:5.1.16:jar" level="project" />
   </component>
 </module>

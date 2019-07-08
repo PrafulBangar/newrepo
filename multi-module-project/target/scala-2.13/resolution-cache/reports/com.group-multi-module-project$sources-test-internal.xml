@@ -7,10 +7,10 @@
 		revision="0.1"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190706134021"/>
+		date="20190708104530"/>
 	<dependencies>
 		<module organisation="com.group" name="operations_2.13">
-			<revision name="0.1.0-SNAPSHOT" status="integration" pubdate="20190706134020" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="0">
+			<revision name="0.1.0-SNAPSHOT" status="integration" pubdate="20190708104529" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="0">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="com.group" name="multi-module-project$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="0.1.0-SNAPSHOT" rev-constraint-default="0.1.0-SNAPSHOT" rev-constraint-dynamic="0.1.0-SNAPSHOT" callerrev="0.1"/>
 				<artifacts>
@@ -18,7 +18,7 @@
 			</revision>
 		</module>
 		<module organisation="com.group" name="dboperation_2.13">
-			<revision name="0.1.0-SNAPSHOT" status="integration" pubdate="20190706134020" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
+			<revision name="0.1.0-SNAPSHOT" status="integration" pubdate="20190708104529" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="com.group" name="multi-module-project$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="0.1.0-SNAPSHOT" rev-constraint-default="0.1.0-SNAPSHOT" rev-constraint-dynamic="0.1.0-SNAPSHOT" callerrev="0.1"/>
 				<artifacts>
@@ -26,7 +26,7 @@
 			</revision>
 		</module>
 		<module organisation="com.group" name="entities_2.13">
-			<revision name="0.1.0-SNAPSHOT" status="integration" pubdate="20190706134020" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="3">
+			<revision name="0.1.0-SNAPSHOT" status="integration" pubdate="20190708104529" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="3">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="com.group" name="multi-module-project$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="0.1.0-SNAPSHOT" rev-constraint-default="0.1.0-SNAPSHOT" rev-constraint-dynamic="0.1.0-SNAPSHOT" callerrev="0.1"/>
 				<artifacts>

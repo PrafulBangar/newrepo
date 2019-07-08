@@ -8,6 +8,8 @@ organization in ThisBuild := "com.group"
 
 libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.16"
 
+mainClass in(Compile, run) := Some("com.group.Main")
+
 
 lazy val root = (project in file("."))
   .aggregate(dboperation, operations,entities)

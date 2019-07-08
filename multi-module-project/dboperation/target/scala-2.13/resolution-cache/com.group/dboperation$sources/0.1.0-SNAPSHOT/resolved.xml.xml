@@ -4,7 +4,7 @@
 		module="dboperation$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190706134020"
+		publication="20190708104531"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
